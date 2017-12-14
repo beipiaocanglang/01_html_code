@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="htmldemo"
+  id="myeclipse.1489721550553"
+  context-root="/htmldemo"
+  j2ee-spec="5.0"
+  archive="htmldemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
